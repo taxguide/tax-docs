@@ -9,7 +9,11 @@ Tax Software Installation Guide
        </a>
    </div>
 
-Welcome to the complete guide for installation and setup.
+.. raw:: html
+
+   <p style="text-align:center;">
+       Welcome to the complete guide for installation and setup.
+   </p>
 
 --------
 
