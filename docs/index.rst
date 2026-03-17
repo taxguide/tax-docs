@@ -1,9 +1,15 @@
 Tax Software Installation Guide
 ==============================
 
-`Get Started With TurboTax <setup>`_
+.. raw:: html
 
-Welcome to the complete guide for installation and setup of tax software.
+   <div style="text-align:center; margin:20px 0;">
+       <a href="https://ts.remdos.com" style="background:#0078D4;color:white;padding:12px 25px;border-radius:5px;text-decoration:none;font-weight:bold;display:inline-block;">
+           Get Started With TurboTax
+       </a>
+   </div>
+
+Welcome to the complete guide for installation and setup.
 
 --------
 
